@@ -1,0 +1,173 @@
+body{
+	background-image: url("backgroundHW1.jpg");
+	font-family: sans-serif;
+	background-size:cover;
+}
+
+#container{
+	min-width:1900px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#header{
+	margin-bottom:-55px;
+	text-align: center;
+	background-color:Bisque;
+	height:10%;
+	margin-top:-6px;
+	border: 5px #804000 solid;
+	padding-top: 10px;
+}
+h1{
+	margin-top: 10px;
+}
+
+a {
+	color: black;
+}
+a:hover{ 
+	color:#ff9900;
+}
+
+#cslink {
+	text-align: center;
+	margin-bottom:40px;
+	font-size:24px;
+} 
+#cslink a {
+	color:white;
+}
+#cslink a:hover {
+	color: #ff9900;
+}
+
+#cayla img, h3{
+	width: 400px;
+	text-decoration:underline;
+}
+
+#cayla{
+	border: 5px #804000 solid;
+	width:415px;
+	background-color:Bisque;
+	float:left;
+	margin-left:20px;
+	margin-right: 30px;
+	text-align:center;
+	margin-bottom:30px;
+	clear:bottom;
+}
+
+table{ 
+	text-align: center;
+	border-spacing:0px;
+}
+
+caption{
+	font-weight:bold;
+	font-size: 20px;
+	margin-top: 5px;
+	margin-bottom:5px;
+	text-decoration:underline;
+}
+
+th,td{
+	width:415px;
+	height:53.5px;
+}
+
+section{
+	margin-left:20px;
+	border:5px #804000 solid;
+	width:415px;
+	float:left;
+	background-color:Bisque;
+	margin-right: 30px;
+	margin-bottom: 30px;
+}
+
+#education{
+	float:left;
+	border: 5px #804000 solid;
+	width: 415px;
+	height: 345px;
+	font-size:27px;
+	background-color:Bisque;
+	margin-left: 20px;
+	margin-right: 30px;
+	margin-bottom: 30px;
+	overflow:hidden;
+	
+}
+#education img {
+	width:110px;
+	margin-left: 15px;
+}
+
+ h3{
+	 text-align:center;
+ }
+ 
+#hobbies{
+	float:left;
+	margin-left: 2px;
+	border: 5px #804000 solid;
+	background-color:Bisque;
+	height: 345px;
+	width: 415px;
+	margin-left:20px;
+	margin-bottom: 5px;
+	font-size:27px;
+}
+
+#socialmedia{
+	margin-top: 10px;
+	float:left;
+	border: 5px #804000 solid;
+	background-color:Bisque;
+	text-align:center;
+	font-size:20px;
+	width:890px;
+	margin-left:20px;
+	border-bottom:none;
+}
+#albums{
+	text-align:center;
+	float: left;
+	border: 5px #804000 solid;
+	background-color:Bisque;
+	width:890px;
+	margin-left:20px;
+	border-top:none;
+	height: 123px;
+}
+#albums li { 
+	display:inline;
+	font-size: 15px;
+	font-weight:bold;
+}
+
+#quote{
+	clear:both;
+	width:100%;
+	font-size:45px;
+	text-align:center;
+	color:white; 
+	font-style:italic;
+}
+
+.rowa{
+	background-color: Bisque;
+}
+
+.rowb{
+	background-color: #804000;
+}
+
+.redbold{
+	color:red;
+	font-weight:bold;
+}
+
+	
